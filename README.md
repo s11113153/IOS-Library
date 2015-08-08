@@ -1,6 +1,6 @@
 # IOS-Library
 
-#### AFNetworking, Alamofire( AFNetworking 新版本採用 Swift )
+#### AFNetworking, Alamofire ( AFNetworking 的新版本, 採用 Swift )
 處理網路操作
 
 #### EGOTableViewPullRefresh
