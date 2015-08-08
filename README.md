@@ -1,6 +1,6 @@
 # IOS-Library
 
-#### AFNetworking
+#### AFNetworking, Alamofire( AFNetworking 新版本採用 Swift )
 處理網路操作
 
 #### EGOTableViewPullRefresh
@@ -17,3 +17,4 @@
 
 #### JSONKit
 處理 `JSON`, 非常高效率。
+
