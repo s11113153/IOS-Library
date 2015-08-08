@@ -27,5 +27,18 @@ swift `JSON` 版本
 #### Swift Spinner
 https://github.com/icanzilb/SwiftSpinner
 
+#### SuperRecord 
+一個方便在Swift中使用CoreData的庫
+https://github.com/michaelarmstrong/SuperRecord
+
+
+#### 額外補充
+http://www.faceye.net/search/183162.html
+
+
+
+
+
+
 
 
