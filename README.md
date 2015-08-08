@@ -31,8 +31,14 @@ https://github.com/icanzilb/SwiftSpinner
 一個方便在Swift中使用CoreData的庫  
 https://github.com/michaelarmstrong/SuperRecord
 
-#### 圖像剪輯、縮放、裁切、Mask
+#### Toucan (圖像剪輯、縮放、裁切、Mask)
 https://github.com/gavinbunney/Toucan
+
+#### LBBlurredImage (讓圖像模糊)
+https://github.com/lukabernardi/LBBlurredImage
+
+#### Mantle
+https://github.com/Mantle/Mantle
 
 #### 額外補充
 http://www.faceye.net/search/183162.html  
