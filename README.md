@@ -11,3 +11,6 @@
 
 #### FMDB
 `Sqlite` 數據庫操作
+
+#### UAAppReviewManager
+提醒用戶評分
