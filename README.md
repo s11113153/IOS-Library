@@ -15,6 +15,9 @@ https://feeds.cocoapods.org/
 #### FMDB
 `Sqlite` 數據庫操作
 
+#### MagicalRecord
+簡化、精簡 CoreData 
+
 #### UAAppReviewManager
 提醒用戶評分
 
