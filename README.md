@@ -31,6 +31,9 @@ https://github.com/icanzilb/SwiftSpinner
 一個方便在Swift中使用CoreData的庫
 https://github.com/michaelarmstrong/SuperRecord
 
+#### 圖像剪輯、縮放、裁切、Mask
+https://github.com/gavinbunney/Toucan
+
 #### 額外補充
 http://www.faceye.net/search/183162.html  
 http://www.webtag123.com/ios/4234.html
