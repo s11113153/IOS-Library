@@ -28,7 +28,7 @@ swift `JSON` 版本
 https://github.com/icanzilb/SwiftSpinner
 
 #### SuperRecord 
-一個方便在Swift中使用CoreData的庫
+一個方便在Swift中使用CoreData的庫  
 https://github.com/michaelarmstrong/SuperRecord
 
 #### 圖像剪輯、縮放、裁切、Mask
