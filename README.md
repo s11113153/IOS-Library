@@ -55,6 +55,9 @@ https://github.com/michalkonturek/MKUnits
 #### Quick ( testing framework )
 https://github.com/Quick/Quick#how-to-install-quick-using-beta-cocoapods
 
+#### LlamaKit
+https://github.com/LlamaKit/LlamaKit
+
 #### 額外補充
 http://www.faceye.net/search/183162.html  
 http://www.webtag123.com/ios/4234.html
