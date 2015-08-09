@@ -24,8 +24,8 @@ https://feeds.cocoapods.org/
 #### JSONKit
 處理 `JSON`, 非常高效率。
 
-#### SwiftyJSON
-swift `JSON` 版本
+#### SwiftyJSON ( swift `JSON` 版本 )
+https://github.com/SwiftyJSON/SwiftyJSON
 
 #### Swift Spinner
 https://github.com/icanzilb/SwiftSpinner
