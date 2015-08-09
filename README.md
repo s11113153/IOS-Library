@@ -17,6 +17,7 @@ https://feeds.cocoapods.org/
 
 #### Firebase (MongoDB 雲端資料庫, 提供 Realtime 資料異動通知)
 ppt: http://www.slideshare.net/tuzaiz/use-firebase-on-ios
+video: https://www.firebase.com/blog/2015-07-13-firebase-swift-cocoapods-quickstart.html
 
 
 
