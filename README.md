@@ -67,6 +67,12 @@ https://github.com/Carthage/Carthage
 ####  Ono ( 處理 XML && HTML )
 https://github.com/mattt/Ono
 
+#### ORStackView
+https://github.com/orta/ORStackView
+
+#### IRFAutoCompletionKit
+https://github.com/fabiopelosin/IRFAutoCompletionKit
+
 #### 額外補充
 http://www.faceye.net/search/183162.html  
 http://www.webtag123.com/ios/4234.html
