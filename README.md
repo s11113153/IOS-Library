@@ -15,6 +15,11 @@ https://feeds.cocoapods.org/
 #### FMDB
 `Sqlite` 數據庫操作
 
+#### Firebase (MongoDB 雲端資料庫, 提供 Realtime 資料異動通知)
+ppt: http://www.slideshare.net/tuzaiz/use-firebase-on-ios
+
+
+
 #### MagicalRecord
 簡化、精簡 CoreData 
 
