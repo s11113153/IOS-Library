@@ -3,8 +3,11 @@
 #### CocoaPods 官網 (裡面有很多可以參考的 Library )
 https://feeds.cocoapods.org/
 
-#### AFNetworking, Alamofire ( AFNetworking 的新版本, 採用 Swift )
-處理網路操作
+#### AFNetworking ( 處理網路操作 )
+https://github.com/AFNetworking/AFNetworking
+
+#### Alamofire ( AFNetworking 的新版本, 採用 Swift )
+https://github.com/Alamofire/Alamofire
 
 #### ARAnalytics
 https://github.com/orta/ARAnalytics
