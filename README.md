@@ -9,14 +9,14 @@ https://feeds.cocoapods.org/
 #### ARAnalytics
 https://github.com/orta/ARAnalytics
 
-#### EGOTableViewPullRefresh
-下拉刷新的 `TableView`  
+#### EGOTableViewPullRefresh ( 下拉刷新的 `TableView` )
+https://github.com/enormego/EGOTableViewPullRefresh
 
-#### SVProgressHUD
-加載進度提示
+#### SVProgressHUD ( 加載進度提示 )
+https://github.com/TransitApp/SVProgressHUD
 
-#### FMDB
-`Sqlite` 數據庫操作
+#### FMDB ( `Sqlite` 數據庫操作 )
+https://github.com/ccgus/fmdb
 
 #### Firebase (MongoDB 雲端資料庫, 提供 Realtime 資料異動通知)
 ppt: http://www.slideshare.net/tuzaiz/use-firebase-on-ios
@@ -41,14 +41,14 @@ https://github.com/ShareKit/ShareKit
 #### Reachability.swift
 https://github.com/ashleymills/Reachability.swift
 
-#### MagicalRecord
-簡化、精簡 CoreData 
+#### MagicalRecord ( 簡化、精簡 CoreData )
+https://github.com/magicalpanda/MagicalRecord
 
-#### UAAppReviewManager
-提醒用戶評分
+#### UAAppReviewManager ( 提醒用戶評分 )
+https://github.com/UrbanApps/UAAppReviewManager
 
-#### JSONKit
-處理 `JSON`, 非常高效率。
+#### JSONKit ( 處理 `JSON`, 非常高效率 )
+https://github.com/johnezang/JSONKit
 
 #### SwiftyJSON ( swift `JSON` 版本 )
 https://github.com/SwiftyJSON/SwiftyJSON
