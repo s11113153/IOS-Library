@@ -22,7 +22,24 @@ https://github.com/orta/ARAnalytics
 ppt: http://www.slideshare.net/tuzaiz/use-firebase-on-ios
 video: https://www.firebase.com/blog/2015-07-13-firebase-swift-cocoapods-quickstart.html
 
+#### PKRevealController
+https://github.com/pkluz/PKRevealController
+說明: http://my.oschina.net/barrywey/blog/155893
 
+#### JMImageCache
+https://github.com/jakemarsh/JMImageCache
+
+#### HockeySDK-iOS
+https://github.com/bitstadium/HockeySDK-iOS
+
+#### ADNKit
+https://github.com/joeldev/ADNKit
+
+#### ShareKit
+https://github.com/ShareKit/ShareKit
+
+#### Reachability.swift
+https://github.com/ashleymills/Reachability.swift
 
 #### MagicalRecord
 簡化、精簡 CoreData 
