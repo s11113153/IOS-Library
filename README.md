@@ -9,6 +9,9 @@ https://github.com/AFNetworking/AFNetworking
 #### Alamofire ( AFNetworking 的新版本, 採用 Swift )
 https://github.com/Alamofire/Alamofire
 
+#### Just ( 處理 HTTP 相關 )
+https://github.com/justhttp/Just
+
 #### ARAnalytics
 https://github.com/orta/ARAnalytics
 
